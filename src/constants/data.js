@@ -46,6 +46,62 @@ export const Employees = [
         gender: "male",
         email: "test6@gmail.com",
         phoneNo: "9415346318"
+    },
+    {
+        id: 7,
+        name: "test7",
+        age: "17",
+        gender: "male",
+        email: "test7@gmail.com",
+        phoneNo: "9415346319"
+    },
+    {
+        id: 8,
+        name: "test8",
+        age: "18",
+        gender: "male",
+        email: "test8@gmail.com",
+        phoneNo: "9415346310"
+    },
+    {
+        id: 9,
+        name: "test9",
+        age: "19",
+        gender: "male",
+        email: "test9@gmail.com",
+        phoneNo: "9415346320"
+    },
+    {
+        id: 10,
+        name: "test10",
+        age: "20",
+        gender: "male",
+        email: "test10@gmail.com",
+        phoneNo: "9415346321"
+    },
+    {
+        id: 11,
+        name: "test11",
+        age: "21",
+        gender: "male",
+        email: "test11@gmail.com",
+        phoneNo: "9415346322"
+    },
+    {
+        id: 12,
+        name: "test12",
+        age: "22",
+        gender: "male",
+        email: "test12@gmail.com",
+        phoneNo: "9415346323"
+    },
+    {
+        id: 13,
+        name: "test13",
+        age: "23",
+        gender: "male",
+        email: "test13@gmail.com",
+        phoneNo: "9415346324"
     }
 ];
 
